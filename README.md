@@ -1,13 +1,12 @@
 # 👋 Ciao, sono Mauro Mirra!
 
-💻 Software Developer con una passione per l’eleganza del design e la solidità del codice.
+💻 Sono un Software Developer con una passione per l’eleganza del design e la solidità del codice. Da Roma, progetto UI moderne per applicazioni GIS complesse e gestisco brand eCommerce di successo.
 
-🎯 Specializzato in React, TypeScript, Redux Toolkit, REST API e sviluppo di UI avanzate per applicazioni GIS.
+🎯 Specializzato in React, TypeScript, Redux, Redux Toolkit Query, REST API e sviluppo di UI avanzate per applicazioni GIS.
 
-🌐 eCommerce Manager di:
-- [www.upperistheway.it](https://www.upperistheway.it) – Woman Fashion brand Made in Rome 🇮🇹
-- [www.eleganteprofumi.com](https://www.eleganteprofumi.com) – Profumi di Nicchia Luxury
-
+## 🌐 eCommerce Manager di:
+- [www.upperistheway.it](https://www.upperistheway.it) – Woman Fashion Brand Made in Rome 🇮🇹
+- [www.eleganteprofumi.com](https://www.eleganteprofumi.com) – Luxury Niche Perfumes Brand Made in Rome 🇮🇹
 
 ## 🚀 Tech Stack
 
@@ -20,16 +19,19 @@
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![💧 Liquid](https://img.shields.io/badge/💧%20Liquid-6C3483?style=for-the-badge)
 
-
-
-## 👨‍💻 Chi sono
+## 👨‍💻 About Me
 
 - Diplomato Geometra con Master in Graphic & Web Design
 - 3+ anni come sviluppatore Front-End in ambito GIS
 - Amante della cura visiva e delle soluzioni performanti
 - Parlo Italiano 🇮🇹, Inglese 🇬🇧 e un po' di Francese 🇫🇷
 
-📫 **Contattami:** fourtyozone@outlook.it
+## 🤝 Let's Connect
+
+📬 Email: [fourtyozone@outlook.it](mailto:fourtyozone@outlook.it)
+📍 Rome, Italy | 🎨 Adobe Certified Visual Design Specialist | 🥷 Shopify Expert | 🗺️ GIS UI Engineer
+
+> "Eleganza, efficienza e un pizzico di caos creativo."
 
 <!--
 **NotOzone/NotOzone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
