@@ -8,7 +8,6 @@
 - [www.upperistheway.it](https://www.upperistheway.it) – Woman Fashion brand Made in Rome 🇮🇹
 - [www.eleganteprofumi.com](https://www.eleganteprofumi.com) – Profumi di Nicchia Luxury
 
----
 
 ## 🚀 Tech Stack
 
@@ -22,7 +21,6 @@
 ![💧 Liquid](https://img.shields.io/badge/💧%20Liquid-6C3483?style=for-the-badge)
 
 
----
 
 ## 👨‍💻 Chi sono
 
