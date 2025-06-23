@@ -1,6 +1,6 @@
 # 👋 Ciao, sono Mauro Mirra!
 
-💻 Front-End Developer con una passione per l’eleganza del design e la solidità del codice.
+💻 Software Developer con una passione per l’eleganza del design e la solidità del codice.
 
 🎯 Specializzato in React, TypeScript, Redux Toolkit, REST API e sviluppo di UI avanzate per applicazioni GIS.
 
@@ -12,26 +12,22 @@
 
 ## 🚀 Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Redux](https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux)
-![Shopify](https://img.shields.io/badge/Shopify-96bf48?style=for-the-badge&logo=shopify)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![🎨 CSS3](https://img.shields.io/badge/🎨%20CSS3-264de4?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![💧 Liquid](https://img.shields.io/badge/💧%20Liquid-6C3483?style=for-the-badge)
+
 
 ---
 
-## 📊 GitHub Stats
+## 👨‍💻 Chi sono
 
-![Mauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotOzone&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotOzone&layout=compact&theme=tokyonight)
-
----
-
-## 🧠 Chi sono
-
-- Diplomato Geometra con background in Web & Graphic Design
-- 3+ anni come sviluppatore front-end in ambito GIS
+- Diplomato Geometra con Master in Graphic & Web Design
+- 3+ anni come sviluppatore Front-End in ambito GIS
 - Amante della cura visiva e delle soluzioni performanti
 - Parlo Italiano 🇮🇹, Inglese 🇬🇧 e un po' di Francese 🇫🇷
 
