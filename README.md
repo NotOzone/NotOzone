@@ -22,7 +22,7 @@
 ## 👨‍💻 About Me
 
 - Diplomato Geometra con Master in Graphic & Web Design
-- 3+ anni come sviluppatore Front-End in ambito GIS
+- 4+ anni come sviluppatore Front-End in ambito GIS
 - Amante della cura visiva e delle soluzioni performanti
 - Parlo Italiano 🇮🇹, Inglese 🇬🇧 e un po' di Francese 🇫🇷
 
